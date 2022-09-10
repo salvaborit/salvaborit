@@ -19,9 +19,9 @@
 
   <h3> My GitHub stats </h3>
   <!-- first add-on -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaborit&theme=github_dark" alt="salvaborit" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaborit&theme=github_dark&hide_title=true" alt="salvaborit" />
   <!-- second add-on -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvaborit&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="salvaborit" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvaborit&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_title=true" alt="salvaborit" />
 
 <br>
 
