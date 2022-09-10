@@ -1,7 +1,7 @@
 <!--HEADER-->
 <h1>
 <img width=3.5% src="https://i.pinimg.com/originals/21/f2/07/21f2078d23f9195570a3711c018328b2.png" alt="wave" />
- Hi, I'm Salvador orit
+ Hi, I'm Salvador Borit
 </h1>
 <h4> Software Engineering student at Holberton School, Montevideo. </h4>
 
