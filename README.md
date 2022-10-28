@@ -19,8 +19,10 @@
 
   <h3> My GitHub stats </h3>
   <!-- first add-on -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaborit&theme=github_dark&hide_title=true" alt="salvaborit" />
+  [![Visitors](https://api.visitorbadge.io/api/combined?path=github.com%2Fsalvaborit&label=Visitors%3A%20total%2Ftoday&countColor=%23263759&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=github.com%2Fsalvaborit)
   <!-- second add-on -->
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaborit&theme=github_dark&hide_title=true" alt="salvaborit" />
+  <!-- third add-on -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvaborit&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_title=true" alt="salvaborit" />
 
 <br>
