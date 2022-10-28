@@ -19,7 +19,7 @@
 
   <h3> My GitHub stats </h3>
   <!-- first add-on -->
-  <a href="https://visitorbadge.io/status?path=github.com%2Fsalvaborit" style="margin-botton: 20px;"><img src="https://api.visitorbadge.io/api/combined?path=github.com%2Fsalvaborit&label=Visitors%3A%20total%2Ftoday&countColor=%23263759&style=flat&labelStyle=lower" /></a>
+  <a href="https://visitorbadge.io/status?path=github.com%2Fsalvaborit"><img src="https://api.visitorbadge.io/api/combined?path=github.com%2Fsalvaborit&label=Visitors%3A%20total%2Ftoday&countColor=%23263759&style=flat&labelStyle=lower" /></a>
   <!-- second add-on -->
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaborit&theme=github_dark&hide_title=true" alt="salvaborit" />
   <!-- third add-on -->
