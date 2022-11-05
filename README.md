@@ -4,6 +4,7 @@
  Hi, I'm Salvador Borit
 </h1>
 <h4> Software Engineering student at Holberton School, Montevideo. </h4>
+<h5>Python, SQL, HTML, CSS</h5>
 
 <div>
   <a href="https://www.linkedin.com/in/salvadorborit/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
