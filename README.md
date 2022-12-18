@@ -1,10 +1,5 @@
-<!--HEADER-->
-<h1>
-<img width=3.5% src="https://i.pinimg.com/originals/21/f2/07/21f2078d23f9195570a3711c018328b2.png" alt="wave" />
- Hi, I'm Salvador Borit
-</h1>
+<h1 align="center">Hi 👋, I'm Salvador Borit</h1>
 <h4> Software Developer studying at Holberton School, Montevideo. </h4>
-<h5>Linux / Python / SQL / HTML / CSS</h5>
 
 <div>
   <a href="https://www.linkedin.com/in/salvadorborit/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
