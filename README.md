@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salvador Borit</h1>
 <h4> Software Developer studying at Holberton School, Montevideo. </h4>
 
-<div>
+<div align='center'>
   <a href="https://www.linkedin.com/in/salvadorborit/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
   <a href="mailto:salvaborit@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
