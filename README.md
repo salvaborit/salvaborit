@@ -31,7 +31,6 @@
 <br>
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
-![Géant](https://img.shields.io/static/v1?style=for-the-badge&message=G%C3%A9ant&color=DD1F26&logo=G%C3%A9ant&logoColor=FFFFFF&label=)
 
 </div>
 
