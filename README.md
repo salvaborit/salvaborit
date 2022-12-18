@@ -25,7 +25,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=nodejs&logoColor=green)
+![Node](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=node&logoColor=green)
 
 <br>
 
