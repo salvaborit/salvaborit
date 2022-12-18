@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="center"> Skills </h3>
+<h2 align="center"> Skills </h2>
 
 <div align="center">
 
@@ -43,37 +43,12 @@
 
 <br>
 
-<h3 align="center"> My GitHub stats </h2>
- <br />
+<h2 align="center"> My GitHub stats </h2>
+ <br>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&show_icons=true&count_private=true&theme=darcula&hide_title=true&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="salvaborit" />
  <img src="https://github-readme-streak-stats.herokuapp.com?user=salvaborit&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
- <br />
- <br />
-</p>
-
-<br>
-<!-- ADD-ONS -->
-<p align="center">
-
-  <h3 align='center'> My GitHub stats </h3>
-  <!-- first add-on -->
-  <a href="https://visitorbadge.io/status?path=github.com%2Fsalvaborit"><img src="https://api.visitorbadge.io/api/combined?path=github.com%2Fsalvaborit&label=Visitors%3A%20total%2Ftoday&countColor=%23263759&style=flat&labelStyle=lower" /></a>
-  <!-- second add-on -->
-   <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&theme=github_dark&hide_title=true" alt="salvaborit" />
-  <!-- third add-on -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salvaborit&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_title=true" alt="salvaborit" />
-
-<br>
-
-  <h3> Currently working on </h3>
-  <!-- third add on -->
-    <a href="https://github.com/salvaborit/holbertonschool-AirBnB_clone_alone">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salvaborit&repo=holbertonschool-AirBnB_clone_alone&theme=github_dark" />
-    </a>
-    <a href="https://github.com/salvaborit/holbertonschool-higher_level_programming">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salvaborit&repo=holbertonschool-higher_level_programming&theme=github_dark" />
-    </a>
-
+ <br>
+ <br>
 </p>
