@@ -41,6 +41,8 @@
 
 </div>
 
+<br>
+
 <h3 align="center"> My GitHub stats </h2>
  <br />
 <p align="center">
