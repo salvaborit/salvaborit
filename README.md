@@ -27,7 +27,7 @@
 <br>
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -47,7 +47,7 @@
  <br>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&show_icons=true&count_private=true&theme=darcula&hide_title=true&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="salvaborit" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,m,css,php" alt="salvaborit" />
  <img src="https://github-readme-streak-stats.herokuapp.com?user=salvaborit&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
  <br>
  <br>
