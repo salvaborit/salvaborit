@@ -41,11 +41,11 @@
 
 </div>
 
-<h2 align="center"> :bar_chart: GitHub stats </h2>
+<h3 align="center"> My GitHub stats </h2>
  <br />
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="salvaborit" />
+ <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&show_icons=true&count_private=true&theme=darcula&hide_title=true&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="salvaborit" />
  <img src="https://github-readme-streak-stats.herokuapp.com?user=salvaborit&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
  <br />
  <br />
